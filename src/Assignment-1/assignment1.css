@@ -5,3 +5,13 @@
 width: 100%;
 height: 100%;
 }
+
+.section {
+    width: 49%;
+    display : inline-block;
+    vertical-align: middle !important;
+}
+
+.align-top{
+    vertical-align: top;
+}
